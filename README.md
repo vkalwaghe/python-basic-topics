@@ -1,2 +1,4 @@
 # python-basic-topics
-author- vaibhav kalwaghe
+this is my basic code using python.
+<br>
+Author- vaibhav kalwaghe
